@@ -256,7 +256,19 @@ const Hero = () => {
             <HeroRightContainer>
               <motion.div {...headContentAnimation}>
                 <Tilt>
-                  <Img src={HeroImg} alt="Rishav Chanda" />
+                  <Img
+                    src={HeroImg}
+                    alt="Vinayak Bhoir"
+                    style={{
+                      width: '40vw',            // 40% of viewport width
+                      maxWidth: '250px',        // limit on large screens
+                      aspectRatio: '1 / 1',     // keeps it a perfect square
+                      borderRadius: '50%',      // makes it a circle
+                      objectFit: 'cover',       // crops/fits image inside the circle
+                      display: 'block',
+                    }}
+                  />
+
                 </Tilt>
               </motion.div>
             </HeroRightContainer>
