@@ -357,7 +357,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh7jRyyT8iPf5grShzZFb3VD2uGwSt-G3Zk4mpNDuUA&s",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrFiureMs4PFMKEE-Ww6i4UFsF9Gr28DWl8Q&s",
     school: "Guru Gobind Singh Polytechnic, Nashik",
     date: "2019 - 2022",
     desc: "Completed Diploma in Computer Engineering under MSBTE with an overall percentage of 84.69%.",
@@ -365,7 +365,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://www.apsdeolalicantt.edu.in/images/logo.jpg",
+    img: "https://media.licdn.com/dms/image/v2/C4E0BAQEwu3tI0vfsqQ/company-logo_200_200/company-logo_200_200/0/1630653035969?e=2147483647&v=beta&t=zaFJGCjW8YtUQd7bfC0BcYZFKlMK9bF3iO6XV-4IEwA",
     school: "Army Public School, Deolali Camp, Nashik",
     date: "2018 - 2019",
     desc: "Completed 10th standard under CBSE board with 76% overall marks.",
