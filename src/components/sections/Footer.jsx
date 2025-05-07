@@ -84,7 +84,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Vinayak Bhoir</Logo>
+        <Logo>Nikhil Patil</Logo>
         <Nav>
           <NavLink href="#About">About</NavLink>
           <NavLink href="#Skills">Skills</NavLink>
@@ -106,7 +106,7 @@ const Footer = () => {
             <Instagram />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>Design & Built by Vinayak Bhoir &copy; 2025</Copyright>
+        <Copyright>Design & Built by Nikhil Patil &copy; 2025</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

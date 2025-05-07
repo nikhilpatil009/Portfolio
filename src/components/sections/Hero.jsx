@@ -258,16 +258,17 @@ const Hero = () => {
                 <Tilt>
                   <Img
                     src={HeroImg}
-                    alt="Vinayak Bhoir"
+                    alt="Nikhil Pati"
                     style={{
-                      width: '40vw',            // 40% of viewport width
-                      maxWidth: '250px',        // limit on large screens
-                      aspectRatio: '1 / 1',     // keeps it a perfect square
-                      borderRadius: '50%',      // makes it a circle
-                      objectFit: 'cover',       // crops/fits image inside the circle
+                      width: '60vw',            // increased from 40vw
+                      maxWidth: '350px',        // increased from 250px
+                      aspectRatio: '1 / 1',
+                      borderRadius: '50%',
+                      objectFit: 'cover',
                       display: 'block',
                     }}
                   />
+
 
                 </Tilt>
               </motion.div>
